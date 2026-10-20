@@ -295,6 +295,10 @@ Contributions are welcome! Here's how to get started:
 
 ---
 
+## Sponsor
+
+If this project helps you, consider [sponsoring my work on GitHub](https://github.com/sponsors/soumendrak). Your support helps fund maintenance, documentation, and continued development.
+
 ## License
 
 [MIT](https://opensource.org/licenses/MIT) — see `Cargo.toml` for details.
